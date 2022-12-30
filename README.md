@@ -23,7 +23,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 Deploy:
-[Clicque aqui para acessar o Projeto!](https://noticia-cidade.vercel.app/index.html)
+[Acessar Projeto!](https://chale-hotel-opal.vercel.app/)
 =======
 
 
